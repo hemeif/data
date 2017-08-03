@@ -569,5 +569,117 @@
             "sold":"120",
             "time":"2017/7/26 09:09:09"
         }
+    ],
+    "bannerimages":[
+        { "url": "../../images/1.jpg", "linkURL":"bannerlist/bannerlist","theme": "你坐对月子了吗" },
+        { "url": "../../images/1.jpg", "linkURL":"bannerlist/bannerlist","theme": "世纪宝贝品牌日" },
+        { "url": "../../images/1.jpg", "linkURL":"bannerlist/bannerlist","theme": "巧妙利用玩具，开发宝宝智力" }
+    ],
+     "homelist": [
+      {
+        "id": 1,
+        "img": "/images/icon_1.jpg",
+        "name": "奶粉",
+        "listURL": "products/products",
+        "classify": "milk"
+      },
+      {
+        "id": 2,
+        "img": "/images/icon_1.jpg",
+        "name": "纸尿裤",
+        "listURL": "products/products",
+        "classify": "diapers"
+      },
+      {
+        "id": 3,
+        "img": "/images/icon_1.jpg",
+        "name": "辅食",
+        "listURL": "products/products",
+        "classify": "side"
+      },
+      {
+        "id": 4,
+        "img": "/images/icon_1.jpg",
+        "name": "保健品",
+        "listURL": "products/products",
+        "classify": "health"
+      },
+      {
+        "id": 5,
+        "img": "/images/icon_1.jpg",
+        "name": "用品",
+        "listURL": "products/products",
+        "classify": "supplies"
+      },
+      {
+        "id": 6,
+        "img": "/images/icon_1.jpg",
+        "name": "服装",
+        "listURL": "products/products",
+        "classify": "clothing"
+      },
+      {
+        "id": 7,
+        "img": "/images/icon_1.jpg",
+        "name": "洗护",
+        "listURL": "products/products",
+        "classify": "wash"
+      },
+      {
+        "id": 8,
+        "img": "/images/icon_1.jpg",
+        "name": "玩具",
+        "listURL": "products/products",
+        "classify": "toy"
+      },
+      {
+        "id": 9,
+        "img": "/images/icon_1.jpg",
+        "name": "出行",
+        "listURL": "products/products",
+        "classify": "travel"
+      },
+      {
+        "id": 10,
+       "img": "/images/icon_1.jpg",
+        "name": "寝居",
+        "listURL": "products/products",
+        "classify": "bedding"
+      },
+    ],
+     "productLIST": [
+      {
+        "img": "../../images/6.jpg",
+        "listURL": "show/show",
+        "activity": "优惠",
+        "introduce": " 博洋家纺全棉可水洗夏被 空调薄被子夏凉被芯 花开半夏全棉夏被150* 210cm",
+        "price": "68",
+        "OLDprice": "128"
+      },
+      {
+        "img": "../../images/6.jpg",
+        "listURL": "show/show",
+        "activity": "优惠",
+        "introduce": " 博洋家纺全棉可水洗夏被 空调薄被子夏凉被芯 花开半夏全棉夏被150* 210cm",
+        "price": "68",
+        "OLDprice": "128"
+      },
+      {
+        "img": "../../images/6.jpg",
+        "listURL": "show/show",
+        "activity": "优惠",
+        "introduce": " 博洋家纺全棉可水洗夏被 空调薄被子夏凉被芯 花开半夏全棉夏被150* 210cm",
+        "price": "68",
+        "OLDprice": "128"
+      }
+    ],
+      "showslider": [
+      { "imgUrls": "../../../images/1.jpg"},
+      { "imgUrls": "../../../images/1.jpg"},
+      { "imgUrls": "../../../images/1.jpg"}
+    ],
+      "variety":[
+      { "ImgUrl": "../../../images/1.jpg", "title": "APP新手礼包","endTime": "2017-12-31", "Focus":"3331"},
+      { "ImgUrl": "../../../images/1.jpg", "title": "纸尿裤专场", "endTime": "2017-08-31", "Focus": "222"},
     ]
 }
