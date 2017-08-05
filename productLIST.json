@@ -1,7 +1,7 @@
 {
   "productLIST": [
       {
-        "img": "../../images/6.jpg",
+        "url": "../../images/6.jpg",
         "listURL": "show/show",
         "activity": "优惠",
         "introduce": " 博洋家纺全棉可水洗夏被 空调薄被子夏凉被芯 花开半夏全棉夏被150* 210cm",
@@ -9,7 +9,7 @@
         "OLDprice": "128"
       },
       {
-        "img": "../../images/6.jpg",
+        "url": "../../images/6.jpg",
         "listURL": "show/show",
         "activity": "优惠",
         "introduce": " 博洋家纺全棉可水洗夏被 空调薄被子夏凉被芯 花开半夏全棉夏被150* 210cm",
@@ -17,21 +17,13 @@
         "OLDprice": "128"
       },
       {
-        "img": "../../images/6.jpg",
+        "url": "../../images/6.jpg",
         "listURL": "show/show",
         "activity": "优惠",
         "introduce": " 博洋家纺全棉可水洗夏被 空调薄被子夏凉被芯 花开半夏全棉夏被150* 210cm",
         "price": "68",
         "OLDprice": "128"
       }
-    ],
-      "showslider": [
-      { "imgUrls": "../../../images/1.jpg"},
-      { "imgUrls": "../../../images/1.jpg"},
-      { "imgUrls": "../../../images/1.jpg"}
-    ],
-      "variety":[
-      { "ImgUrl": "../../../images/1.jpg", "title": "APP新手礼包","endTime": "2017-12-31", "Focus":"3331"},
-      { "ImgUrl": "../../../images/1.jpg", "title": "纸尿裤专场", "endTime": "2017-08-31", "Focus": "222"},
     ]
+     
 }
