@@ -1,74 +1,74 @@
 {
-	"homelist": [
+	"homelist":[
       {
         "id": 1,
-        "url": "/images/icon_1.jpg",
+        "url": "../../images/icon_1.jpg",
         "name": "奶粉",
         "listURL": "products/products",
         "classify": "milk"
       },
       {
         "id": 2,
-        "url": "/images/icon_1.jpg",
+        "url": "../../images/icon_1.jpg",
         "name": "纸尿裤",
         "listURL": "products/products",
         "classify": "diapers"
       },
       {
         "id": 3,
-        "url": "/images/icon_1.jpg",
+        "url": "../../images/icon_1.jpg",
         "name": "辅食",
         "listURL": "products/products",
         "classify": "side"
       },
       {
         "id": 4,
-        "url": "/images/icon_1.jpg",
+        "url": "../../images/icon_1.jpg",
         "name": "保健品",
         "listURL": "products/products",
         "classify": "health"
       },
       {
         "id": 5,
-        "url": "/images/icon_1.jpg",
+        "url": "../../images/icon_1.jpg",
         "name": "用品",
         "listURL": "products/products",
         "classify": "supplies"
       },
       {
         "id": 6,
-        "url": "/images/icon_1.jpg",
+        "url": "../../images/icon_1.jpg",
         "name": "服装",
         "listURL": "products/products",
         "classify": "clothing"
       },
       {
         "id": 7,
-        "url": "/images/icon_1.jpg",
+        "url": "../../images/icon_1.jpg",
         "name": "洗护",
         "listURL": "products/products",
         "classify": "wash"
       },
       {
         "id": 8,
-        "url": "/images/icon_1.jpg",
+        "url": "../../images/icon_1.jpg",
         "name": "玩具",
         "listURL": "products/products",
         "classify": "toy"
       },
       {
         "id": 9,
-        "url": "/images/icon_1.jpg",
+        "url": "../../images/icon_1.jpg",
         "name": "出行",
         "listURL": "products/products",
         "classify": "travel"
       },
       {
         "id": 10,
-       "url": "/images/icon_1.jpg",
+       "url": "../../images/icon_1.jpg",
         "name": "寝居",
         "listURL": "products/products",
         "classify": "bedding"
-      },
+      }
     ]
 }
